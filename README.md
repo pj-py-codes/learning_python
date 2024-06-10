@@ -1,2 +1,2 @@
 # learning_python
-This repository is for projects created as part of the Great Learning MIT-IDSS Data Science and Machine Learning certification.
+This repository is for learning data science and machine learning in Python.
